@@ -2,4 +2,4 @@
 
 🌈 Contribution guidelines - create issues, submit PRs.
 
-🍿 Fun facts - I don't remember syntax and other unnecessary nuances now. I look it up from this org.
+🍿 Fun fact - I don't remember syntax and other unnecessary nuances now. I look it up from this org.
